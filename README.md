@@ -1,11 +1,11 @@
-About eslint-config-prettier
-============================
+About eslint-config-prettier-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/eslint-config-prettier-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/prettier/eslint-config-prettier
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/eslint-config-prettier-feedstock/blob/main/LICENSE.txt)
 
 Summary: Find and fix problems in your JavaScript code.
 
