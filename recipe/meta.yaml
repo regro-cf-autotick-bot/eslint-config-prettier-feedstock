@@ -1,5 +1,5 @@
 {% set name = "eslint-config-prettier" %}
-{% set version = "8.7.0" %}
+{% set version = "8.8.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/prettier/eslint-config-prettier/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 476cc461d077997f328fb3207b7c0720bdc27a43574789339a49f9563cf4f67f
+  sha256: 05730de4dc792467a90234d4037f0495f51423adba2f65585a392d9c95d9084f
 
 build:
   skip: true  # [win]
